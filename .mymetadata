@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="GoCtrlMaven"
+  id="myeclipse.1503133734419"
+  context-root="/GoCtrlMaven"
+  j2ee-spec="6.0"
+  archive="GoCtrlMaven.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
